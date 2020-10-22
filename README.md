@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Mac Kittipat
 
 
-I am a Lead Software Developer from Bangkok, Thailand. 
+I am a Lead Software Developer based in Bangkok, Thailand. 
 
 I am currently building and leading a software development team for an international insurance company in Thailand.
 
