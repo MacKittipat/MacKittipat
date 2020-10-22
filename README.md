@@ -7,46 +7,22 @@ I am currently building and leading a software development team for an internati
 
 
 #### Codings :  
-* Java
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* SQL
-
+Java, JavaScript, TypeScript, HTML, CSS, SQL
 
 #### Frameworks : 
-* Spring Framework
-* Spring Boot
-* Node.js
-* Angular
+Spring Framework, Spring Boot, Angular, Node.js
 
 #### Databases : 
-* MySQL
-* PostgreSQL
-* Oracle 
-* Apache Cassandra
-* DyanmoDB
-* Redis
+MySQL, PostgreSQL, Oracle, Apache Cassandra, DyanmoDB, Redis
 
 #### Development Tools : 
-* Git 
-* Maven 
-* Jenkins 
-* Elasticsearch
-* Kibana
-* Docker
+Git , Maven, Jenkins, Elasticsearc, Kibana, Docker
 
 #### Clouds :
-* Cloud Foundry 
-* AWS
+Cloud Foundry, AWS
 
 #### Others : 
-* Agile/Scrum 
-* Unit Test
-* Microservice
-* CI/CD
-* OAuth 2
+Agile/Scrum, Unit Test, Microservice, CI/CD, OAuth 2, Serverless
 
 <!--
 **MacKittipat/MacKittipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
