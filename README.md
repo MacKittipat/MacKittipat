@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I am Mac Kittipat
+
+
+I am a Lead Software Developer from Bangkok, Thailand. 
+
+I am currently building and leading a software development team for an international insurance company in Thailand.
+
 
 <!--
 **MacKittipat/MacKittipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
