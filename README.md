@@ -6,6 +6,48 @@ I am a Lead Software Developer from Bangkok, Thailand.
 I am currently building and leading a software development team for an international insurance company in Thailand.
 
 
+#### Coding :  
+* Java
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* SQL
+
+
+#### Frameworks : 
+* Spring Framework
+* Spring Boot
+* Node.js
+* Angular
+
+#### Databases : 
+* MySQL
+* PostgreSQL
+* Oracle 
+* Apache Cassandra
+* DyanmoDB
+* Redis
+
+#### Development Tools : 
+* Git 
+* Maven 
+* Jenkins 
+* Elasticsearch
+* Kibana
+* Docker
+
+#### Clouds :
+* Cloud Foundry 
+* AWS
+
+#### Others : 
+* Agile/Scrum 
+* Unit Test
+* Microservice
+* CI/CD
+* OAuth 2
+
 <!--
 **MacKittipat/MacKittipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
