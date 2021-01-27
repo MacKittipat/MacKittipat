@@ -1,4 +1,4 @@
-### 👋 Hi, I am Mac Kittipat
+### 👋 Hi, I am Mac
 
 
 I am a Lead Software Developer based in Bangkok, Thailand. 
