@@ -3,8 +3,6 @@
 
 I am a Lead Software Developer based in Bangkok, Thailand. 
 
-I am currently building and leading a software development team for an international insurance company in Thailand.
-
 
 #### Codings :  
 Java, JavaScript, TypeScript, HTML, CSS, SQL
